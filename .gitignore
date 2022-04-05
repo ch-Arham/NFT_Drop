@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+/nftdrop/node_modules
+
 # testing
 /coverage
 
